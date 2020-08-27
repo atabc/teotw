@@ -1,3 +1,2 @@
 # teotw
-GitHub
-用于生成调用api图片
+此仓库用于生成并调用api图片
