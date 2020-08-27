@@ -1,5 +1,5 @@
 <?php
-$arr=file('pic.txt');
+$arr=file('dy.txt');
 $n=count($arr)-1;
 for ($i=1;$i<=1;$i++){
 $x=rand(0,$n);
